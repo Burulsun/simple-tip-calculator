@@ -3,3 +3,4 @@
 Author: Burulsun Taalaibekova
 
 There is an images file where I have uploaded the screenshots which you may check out.
+![](images/im1.PNG)
