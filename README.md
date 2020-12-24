@@ -3,4 +3,10 @@
 Author: Burulsun Taalaibekova
 
 There is an images file where I have uploaded the screenshots which you may check out.
-![](images/im1.PNG)
+
+
+![initial view](images/s1.jpeg)
+![](images/s2.jpeg)
+![](images/s3.jpeg)
+![](images/s4.jpeg)
+
